@@ -20,10 +20,10 @@ The dataset used is `Unemployment in India.csv`, which contains monthly unemploy
 
 ## Visual Insights
 
-- 📈 National unemployment trend over time
-- 🗺️ State-wise variation in unemployment
-- 📆 Seasonal (monthly) patterns
-- 😷 COVID-19 unemployment spike (2020 peak)
+-  National unemployment trend over time
+-  State-wise variation in unemployment
+-  Seasonal (monthly) patterns
+-  COVID-19 unemployment spike (2020 peak)
 
 ## Libraries Used
 
