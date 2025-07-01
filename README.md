@@ -42,6 +42,6 @@ The dataset used is `Unemployment in India.csv`, which contains monthly unemploy
 
 This project is open-sourced under the **MIT License**.
 
-## 👤 Author
+##  Author
 
 Rajvardhan Wakharade – Data Science Intern, 2025
