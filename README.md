@@ -1,5 +1,4 @@
 # CodeAlpha_unemployment-analysis-with-python
-# Unemployment Analysis in India
 
 This data science project analyzes unemployment trends in India using real-world data, focusing on:
 
